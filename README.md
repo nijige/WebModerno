@@ -6,5 +6,6 @@
 - :white_check_mark: 2.Repositório do Curso
 - :white_check_mark: 3.Boas Práticas do Suporte
 - :white_check_mark: 4.Importância dos Fundamentos
+- :white_check_mark: 5. Por que aprender Javascript?
 
 
