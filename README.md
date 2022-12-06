@@ -1,4 +1,4 @@
-# :computer: Vue.js-Completo #
+# :computer: Curso Web Moderno #
 ## Curso a Realizar 
 
 ### Introdução
