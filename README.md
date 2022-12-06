@@ -7,8 +7,8 @@
 - :white_check_mark: 3.Boas Práticas do Suporte
 - :white_check_mark: 4.Importância dos Fundamentos
 - :white_check_mark: 5. Por que aprender Javascript?
-- :witite_check_mark: 6. Usando o terminal
-- :witite_check_mark: 7.Terminais
+- :white_check_mark: 6. Usando o terminal
+- :white_check_mark: 7.Terminais
 ### Configuração do Ambiente
 
 
