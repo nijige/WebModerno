@@ -10,6 +10,11 @@
 - :white_check_mark: 6. Usando o terminal
 - :white_check_mark: 7.Terminais
 ### Configuração do Ambiente
+- :white_check_mark: 8. Aviso importante aos usuários de Windows
+- :white_check_mark: 9. Instalação Node(Windows/Mac) - Curso de Desenvolvimento Web
+- :white_check_mark: 10.Configuração do Editor(Vscode)- Curso Web
+
+
 
 
 
