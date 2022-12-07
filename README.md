@@ -25,3 +25,14 @@
 ### Iniciando com Programação
 
 - :white_check_mark: 15. - Introdução do Módulo
+- :white_check_mark: 16. - Conhecendo o Visual Studio Code
+- :white_check_mark: 17. - Sentença de Código #01
+- :white_check_mark: 18. - Sentença de Código #02
+- :white_check_mark: 19. - Comentario de Código
+- :white_check_mark: 20. - Bloco de Código
+- :white_check_mark: 21. - Desafio Sentença e Bloco
+- :white_check_mark: 22. - bloco de código - Resposta
+- :white_check_mark: 23. - Trabalhando com Dados #01
+- :white_check_mark: 24. - Trabalhando com Dados #02
+- :white_check_mark: 25. - Trabalhando com Dados #03
+- :white_check_mark: 26. - Trabalhando com Dados #04
