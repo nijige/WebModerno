@@ -10,6 +10,7 @@ let temp = a;
 a = b;
 b = temp;
 
+[a, b] = [b, a];
 //  inverter o valor da variavel
 
 console.log(a);

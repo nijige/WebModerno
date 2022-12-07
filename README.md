@@ -36,3 +36,11 @@
 - :white_check_mark: 24. - Trabalhando com Dados #02
 - :white_check_mark: 25. - Trabalhando com Dados #03
 - :white_check_mark: 26. - Trabalhando com Dados #04
+- :white_check_mark: 27. - Desafio Área da Circunferência
+- :white_check_mark: 28. - Desafio Área da Circunferência
+- :white_check_mark: 29. - Desafio de Troca de Valores
+- :white_check_mark: 30. - Desafio Troca de Valores-Resposta
+
+### Javascript: Fundamentos
+
+- :white_check_mark: 31. - Trabalhando com Dados #04
